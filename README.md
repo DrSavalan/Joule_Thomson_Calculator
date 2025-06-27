@@ -1,4 +1,5 @@
 # Joule-Thomson Valve Simulator (Python Tkinter & Thermo Library)
+![image](https://github.com/user-attachments/assets/41e64764-9a89-41db-ab49-3917a69885c3)
 
 ## Overview
 
